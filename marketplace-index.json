@@ -1,27 +1,41 @@
 {
-    "version": "1.0.0",
-    "lastUpdated": "2025-10-08T10:00:00Z",
-    "plugins": [
-      {
-        "id": "plugin-gemini-image-editor",
-        "name": "Gemini Image Editor",
-        "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/gemini-image-editor.rpa-plugin",
-        "downloads": 0,
-        "rating": 0
-      },
-      {
-        "id": "plugin-gemini-image-generation",
-        "name": "Gemini Image Generation",
-        "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/gemini-image-generation.rpa-plugin",
-        "downloads": 0,
-        "rating": 0
-      },
-      {
-        "id": "plugin-google-image-mixer",
-        "name": "Google Image Mixer",
-        "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/google-image-mixer.rpa-plugin",
-        "downloads": 0,
-        "rating": 0
-      }
-    ]
-  }
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-03T00:00:00Z",
+  "plugins": [
+    {
+      "id": "plugin-gemini-image-editor",
+      "name": "Gemini Image Editor",
+      "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/gemini-image-editor.rpa-plugin",
+      "downloads": 0,
+      "rating": 0
+    },
+    {
+      "id": "plugin-gemini-image-generation",
+      "name": "Gemini Image Generation",
+      "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/gemini-image-generation.rpa-plugin",
+      "downloads": 0,
+      "rating": 0
+    },
+    {
+      "id": "plugin-google-image-mixer",
+      "name": "Google Image Mixer",
+      "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/google-image-mixer.rpa-plugin",
+      "downloads": 0,
+      "rating": 0
+    },
+    {
+      "id": "plugin-auto-grader",
+      "name": "Auto Grader",
+      "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/autograder.rpa-plugin",
+      "downloads": 0,
+      "rating": 0
+    },
+    {
+      "id": "plugin-auto-lecture",
+      "name": "Auto Lecture",
+      "downloadUrl": "https://raw.githubusercontent.com/ruohengx-cmu-F24/agentouro-plugin-marketplace/main/plugins/auto-lecture.rpa-plugin",
+      "downloads": 0,
+      "rating": 0
+    }
+  ]
+}
